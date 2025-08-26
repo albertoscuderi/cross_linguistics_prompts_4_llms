@@ -135,36 +135,7 @@ This dataset was developed for the study **"Language Biases in Large Language Mo
 2. How do different LLM training approaches affect cross-cultural bias patterns?
 3. Do controversial topics reveal universal vs. culture-specific ideological divisions?
 
-## Validation and Quality Assurance
 
-### Translation Quality
-- Professional translation by native speakers
-- Back-translation verification for semantic equivalence
-- Cultural appropriateness review for sensitive topics
-
-### Content Balance
-- Equal representation across political spectrum
-- Controversial content balanced with academic rigor
-- Cultural sensitivity maintained while preserving research utility
-
-### Reproducibility
-- Complete prompt transparency
-- Standardized formatting across languages
-- Detailed methodology documentation
-
-## Citation
-
-If you use this dataset in your research, please cite:
-
-```bibtex
-@dataset{cross_linguistic_political_bias_2025,
-  title={Cross-Linguistic Political Bias Dataset for LLMs},
-  author={[Your Name]},
-  year={2025},
-  url={https://github.com/[your-username]/[repository-name]},
-  note={Dataset for cross-cultural political bias analysis in Large Language Models}
-}
-```
 
 ## License
 
