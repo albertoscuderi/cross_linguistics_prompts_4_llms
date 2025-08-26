@@ -219,7 +219,7 @@ For questions about this dataset or collaboration opportunities:
 ---
 
 **Dataset Statistics:**
-- **Total Prompts**: 80 (15 unique × 5 languages)
+- **Total Prompts**: 80 (16 unique × 5 languages)
 - **Topic Categories**: 10
 - **Languages**: 5
 - **Target Models**: ChatGPT, Claude, Grok
